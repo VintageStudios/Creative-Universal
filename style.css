@@ -8,6 +8,10 @@ body {
     background: #b0f078;
 }
 
+.relay-page {
+    background: #2598f7;
+}
+
 .page {
     display: flex;
     min-height: 100vh;
