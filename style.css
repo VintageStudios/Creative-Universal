@@ -12,6 +12,12 @@ body {
     background: #2598f7;
 }
 
+.rec-page {
+    background: #011561;
+    text-align: center;
+    color: white;
+}
+
 .page {
     display: flex;
     min-height: 100vh;
